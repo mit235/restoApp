@@ -1,22 +1,48 @@
 {
-    "restaurant": [
-        {
-            "id": 1,
-            "name": "hari om",
-            "address": "Ahedabad",
-            "email": "hariom5@gmail.com"
-        },
-        {
-            "id": 2,
-            "name": "MohanThal",
-            "address": "Bhuj",
-            "email": "mohanthal@gmail.com"
-        },
-        {
-            "id": 3,
-            "name": "jay ambe",
-            "address": "Naroda",
-            "email": "jayambe@gmail.com"
-        }
-    ]
+  "restaurant": [
+    {
+      "name": "Jay Ambe",
+      "email": "ambe@gmail.com",
+      "address": "Ellishbridge",
+      "id": 1
+    },
+    {
+      "name": "hotel moonLight",
+      "email": "moon@gmail.com",
+      "address": "Ahmedabad",
+      "id": 3
+    },
+    {
+      "name": "Taj",
+      "email": "taj@gmail.com",
+      "address": "Mumbai",
+      "id": 4
+    },
+    {
+      "name": "New Taj",
+      "email": "taj@gmail.com",
+      "address": "pune",
+      "id": 5
+    }
+  ],
+  "users": [
+    {
+      "name": "Mit",
+      "email": "mitlimbani5@gmail.com",
+      "password": "123456",
+      "id": 1
+    },
+    {
+      "name": "Mit Limbani",
+      "email": "mit@gmail.com",
+      "password": "234",
+      "id": 2
+    },
+    {
+      "name": "vivek",
+      "email": "vivek2@gmail.com",
+      "password": "4r43r43r",
+      "id": 3
+    }
+  ]
 }
